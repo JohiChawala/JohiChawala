@@ -35,3 +35,9 @@ Feel free to connect with me via email (johichawala33@gmail.com) and check out m
 
 
 ![GitHub activity](https://img.shields.io/github/last-commit/JohiChawala/JohiChawala)
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=JohiChawala&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JohiChawala&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JohiChawala&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
