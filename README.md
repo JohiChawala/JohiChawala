@@ -43,7 +43,7 @@ Feel free to connect with me via email (johichawala33@gmail.com) and check out m
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=JohiChawala&icon=0&color=0)](https://visitcount.itsvg.in)
+<!--[![](https://visitcount.itsvg.in/api?id=JohiChawala&icon=0&color=0)](https://visitcount.itsvg.in)-->
 
 ![GitHub activity](https://img.shields.io/github/last-commit/JohiChawala/JohiChawala)
 
