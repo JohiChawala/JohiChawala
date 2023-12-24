@@ -10,7 +10,8 @@ I'm an undergraduate student at IBA Sukkur, pursuing a Bachelor's in Computer Sc
 - 📚 Interested in databases and data structures
 
 ## 🚀 Skills
-
+- Data Science
+- Machine learing
 - HTML
 - CSS
 - JavaScript
