@@ -32,3 +32,6 @@ I'm an undergraduate student at IBA Sukkur, pursuing a Bachelor's in Computer Sc
 Explore some of my projects on [GitHub](https://github.com/JohiChawala).
 
 Feel free to connect with me via email (johichawala33@gmail.com) and check out my repositories. I'm open to collaboration and always eager to learn new things 😊!
+
+
+![GitHub activity](https://img.shields.io/github/last-commit/JohiChawala/JohiChawala)
