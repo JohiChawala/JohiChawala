@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Johi Chawala
+# Hi there! 👋 I'm Johi Chawla
 
 I'm an undergraduate student at IBA Sukkur, pursuing a Bachelor's in Computer Science (Batch 25). I'm passionate about technology and have a diverse set of skills.
 
